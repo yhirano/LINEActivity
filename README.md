@@ -8,7 +8,7 @@ How To use
 **podfile**
 
       platform :ios, '6.0'
-      pod "LINEActivity", "~> 0.2.0"
+      pod "LINEActivity", :git => 'https://github.com/yhirano/LINEActivity.git', :branch => 'my_pod'
 
 License
 ============

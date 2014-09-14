@@ -2,10 +2,10 @@ Pod::Spec.new do |s|
   s.name         = "LINEActivity"
   s.version      = "0.3.0"
   s.summary      = "LINEActivity is an iOS 6 UIActivity subclass for LINE."
-  s.homepage     = "https://github.com/nottihub/LINEActivity"
+  s.homepage     = "https://github.com/yhirano/LINEActivity"
   s.license      = { :type => "MIT", :file => "LICENSE.txt" }
   s.author       = "nottihub"
-  s.source       = { :git => "https://github.com/nottihub/LINEActivity.git", :tag => "0.3.0" }
+  s.source       = { :git => "https://github.com/yhirano/LINEActivity.git", :tag => "0.3.0-yh" }
   s.platform     = :ios
 
   s.source_files = 'LINEActivity/*.{h,m}'
